@@ -1,0 +1,15 @@
+.psmbOVWback { background-color: #7686FF; color: white; }
+
+.psmbOVW a:link, .psmbOVW a:visited { color: white; }
+.psmbOVW a:active, .psmbOVW a:hover { color: white; text-decoration: underline; }
+
+.psmbOVW tr th { 
+    background: rgb(181,120,50); /* Old browsers */
+
+    padding: 4px 6px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.psmbOVW tr td {
+    background: rgba(190, 81, 12, 0.88);
+}

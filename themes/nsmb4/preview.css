@@ -1,0 +1,17 @@
+.pnsmb4back {
+    background-color:#000;
+    background-image: url("overbg.png"), url("bg.png");
+    background-repeat: repeat-x, repeat;
+    background-attachment:fixed, fixed;
+    background-position:left bottom, left bottom;
+    color: white;
+}
+
+.pnsmb4 tr th {
+    background: rgba(161, 62, 5, 0.85);
+    color: #EEEEEE;
+}
+
+.pnsmb4 tr td {
+    background: rgba(56, 16, 8, 0.85);
+}

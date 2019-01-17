@@ -1,0 +1,18 @@
+.pnsmb5back {
+    background-color:#000;
+    background-image: url("overbg.png"), url("bg.png");
+    background-repeat: repeat-x, repeat;
+    background-attachment:fixed, fixed;
+    background-position:left bottom, left bottom;
+    color: white;
+}
+
+.pnsmb5 tr th
+{
+    background: rgba(0, 35, 100, 0.95);
+    color: #ABF;
+}
+
+.pnsmb5 tr td {
+    background: rgba(17, 40, 80, 0.85);
+}

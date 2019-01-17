@@ -1,0 +1,38 @@
+<?php
+
+$ranksetNames['Sonic'] = 'Sonic';
+
+$ranksetData['Sonic'] = [
+    ['num' => 0, 'image' => '', 'text' => 'Non-poster'],
+    ['num' => 1, 'image' => '', 'text' => 'Newcomer'],
+    ['num' => 10, 'image' => 'sonic.gif', 'text' => 'Sonic The Hedgehog'],
+    ['num' => 20, 'image' => 'tails.gif', 'text' => 'Miles "Tails" Prower'],
+    ['num' => 30, 'image' => 'knuckles.gif', 'text' => 'Knukles The Echidna'],
+    ['num' => 50, 'image' => 'robotnik.gif', 'text' => 'Dr. Eggman'],
+    ['num' => 75, 'image' => 'eggman.gif', 'text' => 'Eggman Box'],
+    ['num' => 100, 'image' => 'ring.gif', 'text' => 'Ring'],
+    ['num' => 120, 'image' => 'ce-blue.png', 'text' => 'Blue Time Stone'],
+    ['num' => 140, 'image' => 'ce-green.png', 'text' => 'Green Time Stone'],
+    ['num' => 160, 'image' => 'ce-grey.png', 'text' => 'Grey Time Stone'],
+    ['num' => 180, 'image' => 'ce-pink.png', 'text' => 'Pink Time Stone'],
+    ['num' => 200, 'image' => 'ce-purple.png', 'text' => 'Dark Blue Time Stone'],
+    ['num' => 220, 'image' => 'ce-red.png', 'text' => 'Red Time Stone'],
+    ['num' => 300, 'image' => 'ce-yellow.png', 'text' => 'Yellow Time Stone'],
+    ['num' => 325, 'image' => 'masteremerald.gif', 'text' => 'Master Emerald'],
+    ['num' => 350, 'image' => 'se-blue.png', 'text' => 'Blue Super Emerald'],
+    ['num' => 375, 'image' => 'se-green.png', 'text' => 'Green Super Emerald'],
+    ['num' => 400, 'image' => 'se-grey.png', 'text' => 'Grey Super Emerald'],
+    ['num' => 425, 'image' => 'se-pink.png', 'text' => 'Pink Super Emerald'],
+    ['num' => 450, 'image' => 'se-purple.png', 'text' => 'Purple Super Emerald'],
+    ['num' => 475, 'image' => 'se-red.png', 'text' => 'Red Super Emerald'],
+    ['num' => 500, 'image' => 'se-yellow.png', 'text' => 'Yellow Super Emerald'],
+    ['num' => 525, 'image' => 'SonicKnucklesEmerald.gif', 'text' => 'Sonic and Knuckles'],
+    ['num' => 550, 'image' => 'metal_sonic.gif', 'text' => 'Metal Sonic'],
+    ['num' => 575, 'image' => 'shadow.gif', 'text' => 'Shadow'],
+    ['num' => 600, 'image' => 'motobug.gif', 'text' => 'Motobug'],
+    ['num' => 650, 'image' => 'cream.gif', 'text' => 'Cream The rabbit'],
+    ['num' => 700, 'image' => 'Cheese.gif', 'text' => 'Cheese'],
+    ['num' => 800, 'image' => 'Amy.gif', 'text' => 'Amy'],
+    ['num' => 900, 'image' => 'Badnik.gif', 'text' => 'Crabmeat Badnick'],
+    ['num' => 1000, 'image' => 'Chaos.gif', 'text' => 'Chaos'],
+];

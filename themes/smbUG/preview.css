@@ -1,0 +1,32 @@
+.psmbUGback { background: black; color: white; }
+
+.psmbUG a:link, .psmbUG a:visited { color: #6DBDF2; }
+.psmbUG a:active, .psmbUG a:hover { color: #fff; }
+
+.psmbUG {
+    border-radius: 0;
+}
+
+.psmbUG > :first-child > :first-child > :first-child {
+    border-top-left-radius: 0;
+}
+.psmbUG > :first-child > :first-child > :last-child {
+    border-top-right-radius: 0;
+}
+.psmbUG > :last-child > :last-child > :first-child {
+    border-bottom-left-radius: 0;
+}
+.psmbUG > :last-child > :last-child > :last-child {
+    border-bottom-right-radius: 0;
+}
+
+.psmbUG tr.pheader1 th, .psmbUG tr.pheader0 th { 
+    background: #11444F; /* Old browsers */
+
+    color: white;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.psmbUG tr td {
+    background: rgba(0, 128, 136, 0.88);
+}

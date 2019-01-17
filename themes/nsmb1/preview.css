@@ -1,0 +1,20 @@
+.pnsmb1 a:link { color: #B03; }
+.pnsmb1 a:visited { color: #B03; }
+.pnsmb1 a:active { color: #B03; }
+.pnsmb1 a:hover { color:#007; }
+
+.pnsmb1back {
+    background-color: #1890f8;
+    color: black;
+}
+
+.pnsmb1 tr th {
+    background: rgba(255, 159, 133, 0.85);
+    text-shadow: 0px 0px 0px #000;
+    color: black;
+}
+
+.pnsmb1 tr td {
+    background: rgba(141, 213, 255, 0.85);
+    text-shadow: 0px 0px 0px #000;
+}

@@ -1,0 +1,46 @@
+body {
+    background: #1e009e url("https://cdn.discordapp.com/attachments/415686309219401730/514960630365683712/green.png");
+    background-repeat: repeat-x;
+    background-attachment:fixed;
+    background-position:left bottom;
+    color: white;
+}
+
+small { color: while; }
+.forumjump {color: black;}
+
+a:link { color: #000000; }
+a:visited { color: black; }
+.row a { color: white; }
+a:active, a:hover { color: #2070d4; text-decoration: underline; }
+
+.btn-breadcrumb a:link { color:black; }
+.btn-breadcrumb a:visited { color:black; }
+.btn-breadcrumb a:active, .btn-breadcrumb a:hover { color:black; text-decoration:underline; }
+
+.navbar-right a:link { color:black; }
+.navbar-right a:visited { color:black; }
+.navbar-right a:active, .navbar-right a:hover { color:black; text-decoration:underline; }
+
+th {
+    background: rgb(64, 160, 0); /* Old browsers */
+
+    padding: 4px 6px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+#boardHeader {
+    background: #1d009e;
+    background-repeat: repeat-x repeat-y;
+    background-position:center top; 
+}
+
+#breadBar {
+    background: rgb(64, 160, 0); /* Old browsers */
+    padding: 4px 6px;
+    outline: 0px;
+}
+
+td, #onlineUserBar, .footer, .list-group-item, .card-body {
+    background: rgba(92, 34, 0, 0.82);
+}

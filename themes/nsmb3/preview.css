@@ -1,0 +1,14 @@
+.pnsmb3back {
+    background: #000 url("bg.png");
+    background-repeat: repeat-x;
+    background-position:left bottom;
+    color: white;
+}
+
+.pnsmb3 tr th {
+    background: rgba(161, 62, 5, 0.85);
+}
+
+.pnsmb3 tr td {
+    background: rgba(12, 24, 54, 0.85);
+}

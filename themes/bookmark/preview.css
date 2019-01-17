@@ -1,0 +1,16 @@
+.pbookmarkback { background: rgb(8, 106, 154); color: black; }
+
+.pbookmark a:link, .pbookmark a:visited { color: #6DBDF2; }
+.pbookmark a:active, .pbookmark a:hover { color: #fff; }
+
+.pbookmark tr.pheader1 th, .pbookmark tr.pheader0 th { 
+	background: #f9cf00; /* Old browsers */
+
+	padding: 4px 6px;
+	color: #242633;
+}
+
+.pbookmark tr td {
+	background: rgba(249, 207, 0, 0.77);
+	border: 0px solid #ddd !important;
+}

@@ -1,0 +1,55 @@
+/* SMB 1-1 BY LifeMushroom */
+body {
+    background: #2038EC url("back.png");
+    background-repeat: repeat-x;
+    background-attachment:fixed;
+    background-position:left bottom;
+    color: white;
+}
+
+small { color: white; }
+.forumjump {color: black;}
+#notifText small { color: black; }
+
+a:not(.dropdown-link):not(.alert-link):not(.nav-link):not(.dropdown-item) { color: white; }
+a i.fa { color: white; }
+a:active, a:hover { text-decoration: underline; }
+
+.btn-breadcrumb a { color:black; }
+.btn-breadcrumb a:active, .btn-breadcrumb a:hover { color:black; text-decoration:underline; }
+
+.navbar-right a { color:black; }
+.navbar-right a:active, .navbar-right a:hover { color:black; text-decoration:underline; }
+
+th {
+    background: rgb(200,240,188); /* Old browsers */
+
+    padding: 4px 6px;
+    color: black;
+}
+
+#boardHeader {
+    background: #2038EC url("topbg.png");
+    background-repeat: repeat-x;
+    background-position:center top; 
+}
+
+#breadBar {
+    background: rgb(181,120,50); /* Old browsers */
+    padding: 4px 6px;
+    outline: 0px;
+}
+
+td, #onlineUserBar, .list-group-item, .card-body, .card-footer, .cell, .footer {
+    background: rgba(0, 168, 0, 0.88);
+}
+
+button, input[type="submit"]
+{
+    color: black;
+}
+
+input[type="text"], input[type="password"], input[type="file"], input[type="email"], select, textarea, input[type="checkbox"], input[type="radio"]
+{
+    color: black;
+}

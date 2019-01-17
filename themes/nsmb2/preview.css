@@ -1,0 +1,15 @@
+.pnsmb2back
+{
+    background: #000 url("bg.png");
+    background-repeat: repeat;
+    background-position:top left;
+    color: white;
+}
+
+.pnsmb2 tr th {
+    background: rgba(144, 120, 104, 0.85);
+}
+
+.pnsmb2 tr td {
+    background: rgba(24, 40, 64, 0.85);
+}

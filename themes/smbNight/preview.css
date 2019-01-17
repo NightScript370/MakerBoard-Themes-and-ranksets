@@ -1,0 +1,15 @@
+.psmbNightback { background: black; color: white; }
+
+.psmbNight a:link, .psmbNight a:visited { color: #6DBDF2; }
+.psmbNight a:active, .psmbNight a:hover { color: #fff; }
+
+.psmbNight tr.pheader1 th, .psmbNight tr.pheader0 th { 
+    background: rgb(0,114,201); /* Old browsers */
+
+    padding: 4px 6px;
+    text-shadow: 1px 1px 2px #000;
+}
+
+.psmbNight tr td {
+    background: rgba(128, 0, 128, 0.9);
+}

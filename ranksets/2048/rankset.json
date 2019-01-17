@@ -1,0 +1,19 @@
+{
+	"No Tile":		{ "num": 0,		"image": "" },
+	"2 Tile":		{ "num": 2,		"image": "2.png" },
+	"4 Tile":		{ "num": 5,		"image": "4.png" },
+	"8 Tile":		{ "num": 10,	"image": "8.png" },
+	"16 Tile":		{ "num": 20,	"image": "16.png" },
+	"32 Tile":		{ "num": 40,	"image": "32.png" },
+	"64 Tile":		{ "num": 60,	"image": "64.png" },
+	"128 Tile":		{ "num": 90,	"image": "128.png" },
+	"256 Tile":		{ "num": 120,	"image": "256.png" },
+	"512 Tile":		{ "num": 150,	"image": "512.png" },
+	"1024 Tile":	{ "num": 200,	"image": "1024.png" },
+	"2048 Tile":	{ "num": 250,	"image": "2048.png" },
+	"4096 Tile":	{ "num": 300,	"image": "4096.png" },
+	"8192 Tile":	{ "num": 400,	"image": "8192.png" },
+	"16384 Tile":	{ "num": 500,	"image": "16384.png" },
+	"32768 Tile":	{ "num": 650,	"image": "32768.png" },
+	"65536 Tile":	{ "num": 800,	"image": "65536.png" }
+}
